@@ -1,4 +1,7 @@
 div{
     background-color: aqua;
     padding: 10px;
+    margin-bottom: 10px;
+    border: 10px solid thistle;
+    border-radius: 30px;
 }
